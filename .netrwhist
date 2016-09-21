@@ -1,6 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/home/victor/faculdade/grafos/graphs/README'
-let g:netrw_dirhist_2='/home/victor/workspace/tests/nodejs'
-let g:netrw_dirhist_3='/home/victor/.vim/colors/simple_dark'
-let g:netrw_dirhist_4='/home/victor/.vim'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/victor/faculdade/topProg/rails/FairInc/app/views'
+let g:netrw_dirhist_2='/etc/apache2/sites-enabled'
+let g:netrw_dirhist_3='/var/www/html/mediawiki/skins/Example'
