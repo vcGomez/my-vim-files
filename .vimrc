@@ -9,7 +9,7 @@ filetype plugin indent on "adjust plugin uses according to the type of file
 "sets a color scheme of my choice
 set t_Co=256
 if &t_Co >= 256
-    colorscheme mustang
+    colorscheme molokai
 endif
 
 set incsearch "show search matches as you type
@@ -30,7 +30,7 @@ set autoindent
 set expandtab
 set tabstop=4
 set shiftwidth=4
-set smarttab "inserts tabs in the start of a line according to shiftwidth, not tabstop
+set smarttab "inserts tabs at the start of a line according to shiftwidth, not tabstop
 set number
 set pastetoggle=<F2> "by pressing F2, you can paste stuff without the indenting shitstorm from autoindent
 syntax on
